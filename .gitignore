@@ -1,0 +1,12 @@
+# Build output
+/nim
+/build/
+*.o
+*.dSYM/
+
+# Local editor and OS files
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
